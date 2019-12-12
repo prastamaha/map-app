@@ -6,6 +6,12 @@ program ini akan men-generate sebuah file html berupa map yang akan berisikan ma
     - SMA -> Hijau
     - SMK -> Merah
 
+prerequisite:
+program ini membutuhkan module folium dan pandas, install kedua module dengan perintah berikut
+
+    pip3 install folium
+    pip3 install pandas
+
 clone dan jalankan program
 
     git clone https://github.com/prastamaha/map-app.git
